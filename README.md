@@ -1,1 +1,3 @@
-# RandomNumber_generation using python. I will upload some programme related random number generation
+# RandomNumber_generation using python.
+Composite congruential genetor and tauseworth bit generator tecnique.
+
